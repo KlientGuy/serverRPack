@@ -1,0 +1,9 @@
+{
+	"test.test": {
+		"sounds":[
+			{
+				"name": "test/titan_transform"
+			}
+		]
+	}
+}
